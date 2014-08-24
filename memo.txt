@@ -1,1 +1,1 @@
-git commit -m is neccessary
+* git add -A
